@@ -1,6 +1,6 @@
 Package: snowfall
 Title: What the Package Does
-Version: 0.0.1
+Version: 0.0.3
 Authors@R: person("James", "VanLeuven", email = "jtvl5@msn.com", role = c("aut", "cre"))
 Description: Absolutely nothing.
 Depends: R (>= 3.3.2)
