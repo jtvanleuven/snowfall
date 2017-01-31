@@ -1,0 +1,17 @@
+---
+title: "How to Start Conversations -- Just say Hi!"
+author: "JT Van Leuven"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{How to Start Conversations}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+This document tells you how to start a conversation.
+
+```{r,}
+library(snowfall)
+hi("jt")
+```
